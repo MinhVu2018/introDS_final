@@ -1,26 +1,5 @@
 Date : Date
 Time : Time
-A_Name : Away Team
-A_MP : Away Minutes Played
-A_FG : Away Field Goals
-A_FGA : Away Field Goal Attempts
-A_FG% : Away Field Goal Percentage
-A_3P : Away 3-Point Field Goals
-A_3PA : Away 3-Point Field Goal Attempts
-A_3P% : Away 3-Point Field Goal Percentage
-A_FT : Away Free Throws
-A_FTA : Away Free Throw Attempts
-A_FT% : Away Free Throw Percentage
-A_ORB : Away Offensive Rebounds
-A_DRB : Away Defensive Rebounds
-A_TRB : Away Total Rebounds
-A_AST : Away Assists
-A_STL : Away Steals
-A_BLK : Away Blocks
-A_TOV : Away Turnovers
-A_PF : Away Personal Fouls
-A_PTS : Away Points
-A_+/- : Away Plus/Minus
 H_Name : Home Team
 H_MP : Home Minutes Played
 H_FG : Home Field Goals
@@ -42,3 +21,24 @@ H_TOV : Home Turnovers
 H_PF : Home Personal Fouls
 H_PTS : Home Points
 H_+/- : Home Plus/Minus
+A_Name : Away Team
+A_MP : Away Minutes Played
+A_FG : Away Field Goals
+A_FGA : Away Field Goal Attempts
+A_FG% : Away Field Goal Percentage
+A_3P : Away 3-Point Field Goals
+A_3PA : Away 3-Point Field Goal Attempts
+A_3P% : Away 3-Point Field Goal Percentage
+A_FT : Away Free Throws
+A_FTA : Away Free Throw Attempts
+A_FT% : Away Free Throw Percentage
+A_ORB : Away Offensive Rebounds
+A_DRB : Away Defensive Rebounds
+A_TRB : Away Total Rebounds
+A_AST : Away Assists
+A_STL : Away Steals
+A_BLK : Away Blocks
+A_TOV : Away Turnovers
+A_PF : Away Personal Fouls
+A_PTS : Away Points
+A_+/- : Away Plus/Minus
