@@ -1,6 +1,7 @@
 Date : Date
-Time : Time
-H_Name : Home Team
+H_Rk : Home Rank
+H_Team : Home Team
+H_G : Home Games
 H_MP : Home Minutes Played
 H_FG : Home Field Goals
 H_FGA : Home Field Goal Attempts
@@ -8,6 +9,9 @@ H_FG% : Home Field Goal Percentage
 H_3P : Home 3-Point Field Goals
 H_3PA : Home 3-Point Field Goal Attempts
 H_3P% : Home 3-Point Field Goal Percentage
+H_2P : Home 2-Point Field Goals
+H_2PA : Home 2-point Field Goal Attempts
+H_2P% : Home 2-Point Field Goal Percentage
 H_FT : Home Free Throws
 H_FTA : Home Free Throw Attempts
 H_FT% : Home Free Throw Percentage
@@ -20,8 +24,9 @@ H_BLK : Home Blocks
 H_TOV : Home Turnovers
 H_PF : Home Personal Fouls
 H_PTS : Home Points
-H_+/- : Home Plus/Minus
-A_Name : Away Team
+A_Rk : Away Rank
+A_Team : Away Team
+A_G : Away Games
 A_MP : Away Minutes Played
 A_FG : Away Field Goals
 A_FGA : Away Field Goal Attempts
@@ -29,6 +34,9 @@ A_FG% : Away Field Goal Percentage
 A_3P : Away 3-Point Field Goals
 A_3PA : Away 3-Point Field Goal Attempts
 A_3P% : Away 3-Point Field Goal Percentage
+A_2P : Away 2-Point Field Goals
+A_2PA : Away 2-point Field Goal Attempts
+A_2P% : Away 2-Point Field Goal Percentage
 A_FT : Away Free Throws
 A_FTA : Away Free Throw Attempts
 A_FT% : Away Free Throw Percentage
@@ -41,4 +49,3 @@ A_BLK : Away Blocks
 A_TOV : Away Turnovers
 A_PF : Away Personal Fouls
 A_PTS : Away Points
-A_+/- : Away Plus/Minus
