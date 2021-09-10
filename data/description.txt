@@ -1,0 +1,32 @@
+Date : Date
+H_Team : Home Team
+H_ave3P : Home Average 3-Point Field Goals
+H_ave3PA : Home Average 3-Point Field Goal Attempts
+H_ave2P : Home Average 2-Point Field Goals
+H_ave2PA : Home Average 2-point Field Goal Attempts
+H_aveFT : Home Average Free Throws
+H_aveFTA : Home Average Free Throw Attempts
+H_aveORB : Home Average Offensive Rebounds
+H_aveDRB : Home Average Defensive Rebounds
+H_aveAST : Home Average Assists
+H_aveSTL : Home Average Steals
+H_aveBLK : Home Average Blocks
+H_aveTOV : Home Average Turnovers
+H_avePF : Home Average Personal Fouls
+H_Elo : Home Elo
+A_Team : Away Team
+A_ave3P : Away Average 3-Point Field Goals
+A_ave3PA : Away Average 3-Point Field Goal Attempts
+A_ave2P : Away Average 2-Point Field Goals
+A_ave2PA : Away Average 2-point Field Goal Attempts
+A_aveFT : Away Average Free Throws
+A_aveFTA : Away Average Free Throw Attempts
+A_aveORB : Away Average Offensive Rebounds
+A_aveDRB : Away Average Defensive Rebounds
+A_aveAST : Away Average Assists
+A_aveSTL : Away Average Steals
+A_aveBLK : Away Average Blocks
+A_aveTOV : Away Average Turnovers
+A_avePF : Away Average Personal Fouls
+A_Elo : Away Elo
+H_Dif : Difference between home score and away score (H_Dif > 0: Home win)
