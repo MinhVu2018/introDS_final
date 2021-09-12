@@ -6,9 +6,9 @@ Members:
 
 #2 18127155 - Vũ Công Minh - MinhVu2018
 
-Mentors:
-Mr. Trần Trung Kiên
-Ms. Phan Thị Phương Uyên
+Mentors: <br>
+Mr. Trần Trung Kiên <br>
+Ms. Phan Thị Phương Uyên <br>
 
 ```
 project
@@ -17,7 +17,6 @@ project
 │   Teamwork.pdf
 │ 
 └───data
-│   │   Crawl Data.ipynb
 │   │   full_name.txt
 │   │   raw_description.txt
 │   │   description.txt
@@ -27,6 +26,7 @@ project
 │   │   data.csv
 │   
 └───notebook
+    │   Crawl Data.ipynb
     │   NBA Prediction.ipynb
 ```
 
@@ -67,7 +67,9 @@ Step 3: Run 'NBA Prediction.ipynb', it will create data file {3,7}
 
 <b>Result:</b>
 > logistic_regression_score: 0.6364605543710021
+
 > random_forest_score: 0.6332622601279317
+
 > neural_network_score: 0.6471215351812367 
 
 => Currently, the best model is <b>Neural Network (MLP Classifier)</b>
