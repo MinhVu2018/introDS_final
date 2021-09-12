@@ -43,13 +43,13 @@ Jupyter notebook files:
 1. 'Crawl Data.ipynb': Crawl data and save to files
 2. 'NBA Prediction.ipynb': Clean, process raw_data to create cleaned_data and use it to train and predict outcomes.
 
-How to use:
-Step 1: Install libs and google chrome
-Step 2: Run 'Crawl Data.ipynb', it will create data file {1,2,4,5,6}
-Step 3: Run 'NBA Prediction.ipynb', it will create data file {3,7}
- 
+How to use: <br>
+Step 1: Install libs and google chrome <br>
+Step 2: Run 'Crawl Data.ipynb', it will create data file {1,2,4,5,6} <br>
+Step 3: Run 'NBA Prediction.ipynb', it will create data file {3,7} <br>
+
 ## 1. Data Sources
-[basketball-reference](https://www.basketball-reference.com/)
+[basketball-reference](https://www.basketball-reference.com/) <br>
 [projects.fivethirtyeight.com](https://projects.fivethirtyeight.com/2016-nba-picks/)
 
 ## 2. References:
@@ -61,9 +61,11 @@ Step 3: Run 'NBA Prediction.ipynb', it will create data file {3,7}
 - https://www.kaggle.com/faressayah/decision-trees-random-forest-for-beginners
 
 ## 3. Summary
-<b>Data size:</b> 6247 lines (games)
+<b>Data size:</b> 6247 lines (games) 
+
 <b>Input_DataFrame:</b> [Date, H_Team_Name, H_ave_stats..., H_pre_elo A_Team_Name, A_ave_stats..., A_pre_elo]
-<b>Output:</b> [is_Home_Win] (True/False)
+
+<b>Output:</b> [is_Home_Win] (True/False) 
 
 <b>Result:</b>
 > logistic_regression_score: 0.6364605543710021
